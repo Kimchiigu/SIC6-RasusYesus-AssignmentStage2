@@ -2,6 +2,12 @@
 
 This repository contains the documentation of Rasus Yesus's SIC 6 Assignment 2 Stage 2 🔥🔥
 
+## Table of Contents
+
+1. [Mockup Screenshot](#mockup-screenshot)
+2. [Technology and Infrastructure](#technology-and-infrastructure)
+3. [Owner](#owner)
+
 ## Mockup Screenshot
 
 - Devices - Physical Visualization of Our Component
