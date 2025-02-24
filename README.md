@@ -17,11 +17,11 @@ This repository contains the documentation of Rasus Yesus's SIC 6 Assignment 2 S
 - MongoDB - POST Data
 
 <p align="center">
-  <img src = "images/mongodb/mongo-1.jpg" width=700>
+  <img src = "images/mongodb/mongo-dht11.jpg" width=700>
 </p>
 
 <p align="center">
-  <img src = "images/mongodb/mongo-2.jpg" width=700>
+  <img src = "images/mongodb/mongo-pir-sensor.jpg" width=700>
 </p>
 
 - Ubidots - Visualize our Data in Ubidots Widgets
@@ -30,9 +30,20 @@ This repository contains the documentation of Rasus Yesus's SIC 6 Assignment 2 S
   <img src = "images/ubidots/ubidot-widgets.jpg" width=700>
 </p>
 
+- Results - Successful Data Fetching and Sending
+
+<p align="center">
+  <img src = "images/result/send-data-from-thonny.jpg" width=700>
+</p>
+
+<p align="center">
+  <img src = "images/result/send-data-mongodb.jpg" width=700>
+</p>
+
 ## Technology and Infrastructure
 
 This project is built using modern IoT tools and programming language:
+
 - **Visualization**: Ubidots (displaying fetched data and visualized with charts)
 - **Programming Language**: Python (used with Thonny IDE for development)
 - **Database**: MongoDB (used to store sensor data)
@@ -41,7 +52,8 @@ This project is built using modern IoT tools and programming language:
 ## Owner
 
 This Repository is created by:
+
 - 2702211185 - Christopher Hardy Gunawan
 - 2702265351 - Valentino Febrian Kencono
-- 2702217043 - Alfred Dexter
+- 2702230045 - Alfred Dexter
 - 2702223941 - Benedictus Jason
